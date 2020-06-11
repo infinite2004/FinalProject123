@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "232943375815",
+    "firebase_url": "https://codenextchat-aec67.firebaseio.com",
+    "project_id": "codenextchat-aec67",
+    "storage_bucket": "codenextchat-aec67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232943375815:android:bbf137421639632fcdb5e2",
+        "android_client_info": {
+          "package_name": "com.example.codenextchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232943375815-mqfs40matfds97mucce2u52hdma0k3ar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTkD54I1KDNlrlHAmcxSpGRLqRUrd2SiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232943375815-mqfs40matfds97mucce2u52hdma0k3ar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
